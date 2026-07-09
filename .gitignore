@@ -216,3 +216,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ============================
+# Project-specific: API keys
+# ============================
+config/api_keys.json
+.env
+.env.local
+
+# ============================
+# Project-specific: generated media (too heavy for git)
+# ============================
+generated/images/*
+generated/videos/*
+generated/audio/*
+generated/subtitles/*
+!generated/images/.gitkeep
+!generated/videos/.gitkeep
+!generated/audio/.gitkeep
+!generated/subtitles/.gitkeep
+*.mp4
+*.mov
+*.wav

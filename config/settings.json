@@ -1,0 +1,19 @@
+{
+  "scene_duration_seconds": 4,
+  "target_video_length_minutes": [5, 15],
+  "default_resolution": "1920x1080",
+  "default_fps": 24,
+  "subtitle_format": "srt",
+  "image_generation": {
+    "primary": "midjourney",
+    "fallback": ["ideogram", "flux_pro"]
+  },
+  "video_generation": {
+    "primary": "kling",
+    "fallback": ["veo3"]
+  },
+  "tts": {
+    "provider": "elevenlabs",
+    "voice_id": "vietnamese_male"
+  }
+}

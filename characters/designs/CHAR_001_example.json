@@ -1,0 +1,11 @@
+{
+  "CHAR_001": {
+    "name": "Mehmed II",
+    "era": "ottoman_1453",
+    "reference_images": [
+      "CHAR_001_mehmed_ref1.png",
+      "CHAR_001_mehmed_ref2.png",
+      "CHAR_001_mehmed_ref3.png"
+    ]
+  }
+}

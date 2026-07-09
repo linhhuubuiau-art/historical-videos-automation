@@ -1,0 +1,25 @@
+{
+  "midjourney": {
+    "discord_token": "EXAMPLE_TOKEN"
+  },
+  "ideogram": {
+    "api_key": "EXAMPLE_KEY"
+  },
+  "kling": {
+    "api_key": "EXAMPLE_KEY"
+  },
+  "veo": {
+    "google_api_key": "EXAMPLE_KEY"
+  },
+  "elevenlabs": {
+    "api_key": "EXAMPLE_KEY",
+    "voice_id": "vietnamese_male"
+  },
+  "openai": {
+    "api_key": "EXAMPLE_KEY"
+  },
+  "youtube": {
+    "client_id": "EXAMPLE_ID",
+    "client_secret": "EXAMPLE_SECRET"
+  }
+}

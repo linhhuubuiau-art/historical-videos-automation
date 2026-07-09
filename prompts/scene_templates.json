@@ -1,0 +1,18 @@
+{
+  "portrait": {
+    "description": "Cận cảnh nhân vật, tập trung biểu cảm",
+    "prompt_skeleton": "portrait of {character}, {era_style_keywords}, {scene_specific_detail}, cinematic lighting, highly detailed"
+  },
+  "wide_shot": {
+    "description": "Toàn cảnh bối cảnh/địa điểm",
+    "prompt_skeleton": "wide establishing shot of {location}, {era_style_keywords}, {scene_specific_detail}, cinematic composition"
+  },
+  "battle": {
+    "description": "Cảnh chiến trận, hành động",
+    "prompt_skeleton": "{characters} in battle, {era_style_keywords}, dynamic action, dramatic composition, {scene_specific_detail}"
+  },
+  "dialogue": {
+    "description": "Hai nhân vật đối thoại",
+    "prompt_skeleton": "{character_1} and {character_2} in conversation, {era_style_keywords}, {scene_specific_detail}, medium shot"
+  }
+}
